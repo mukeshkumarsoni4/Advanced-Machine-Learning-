@@ -11,6 +11,8 @@ Due to the privacy reasons, the dataset has been anonymized. The feature names h
 2. Technologies Used:  The notebooks uses LogisticsRegression,Linear Discriminant Analysis,Gaussian Naive Bayes, Random Forest, Support Vector Machine Model, Confusion Matrix
 3. Results: Model	Score, 4	Random Forest	99.96, 1	Linear Discriminant Analysis	99.93, 3	Decision Tree	99.92, 0	Logistic Regression	99.91, 5	Support Vector Machines	99.83, 6	K - Nearest Neighbors	99.83
 2	Naive Bayes	99.28
+
+Dataset Link - https://drive.google.com/file/d/1N3Z1l6BVUYO4ECYShBflt8FROWmz-VIl/view?usp=sharing
    
 # [Project - 2 Healthcare Predictions of Diabets ](https://github.com/mukeshkumarsoni4/Advanced-Machine-Learning-.git)
 1. Description: To predict whether a patient has diabetes based on certain medical predictor variables. Data Retrieval :-
